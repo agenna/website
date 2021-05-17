@@ -9,3 +9,7 @@ this is the update we made in file
 ## even more changes
 
 this are new changes
+
+## causing trouble
+
+I plan to edit the same file causing a conflict
