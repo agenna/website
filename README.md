@@ -14,3 +14,6 @@ this are new changes
 
 this is going to be painful but we will deal with it
 
+## causing trouble
+
+I plan to edit the same file causing a conflict
